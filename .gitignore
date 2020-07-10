@@ -8,3 +8,10 @@ my_plugins/
 my_configs.vim
 tags
 .DS_Store
+
+
+NERDTreeBookmarks
+.*.sw*
+.*.un~
+.netrwhist
+spell/*.spl
